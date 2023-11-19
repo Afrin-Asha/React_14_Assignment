@@ -1,0 +1,21 @@
+
+[
+    {
+      "id": 1,
+      "icon": "images/Activity.png",
+      "heading": "Grow Your Business",
+      "des": "We help identify the best ways to improve your business"
+    },
+    {
+      "id": 2,
+      "icon": "images/Activity.png",
+      "heading": "Improve brand loyalty",
+      "des": "We help identify the best ways to improve your business"
+    },
+    {
+      "id": 3,
+      "icon": "images/Activity.png",
+      "heading": "Improve Business Model",
+      "des": "We help identify the best ways to improve your business"
+    }
+  ]

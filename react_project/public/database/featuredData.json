@@ -1,0 +1,27 @@
+[
+    
+    {
+      "id": 2,
+      "imageSrc": "images/small_project_2.png",
+      "appDesignDate": "App Design - 2023-11-15",
+      "redesignHeading": "Redesign Channel Website Landing Page"
+    },
+    {
+      "id": 3,
+      "imageSrc": "images/sm_project_3.png",
+      "appDesignDate": "App Design - 2023-11-15",
+      "redesignHeading": "Redesign Channel Website Landing Page"
+    },
+    {
+      "id": 4,
+      "imageSrc": "images/sm_project_4.png",
+      "appDesignDate": "App Design - 2023-11-16",
+      "redesignHeading": "Redesign Channel Website Landing Page"
+    },
+    {
+      "id": 5,
+      "imageSrc": "images/sm_project_5.png",
+      "appDesignDate": "App Design - 2023-11-16",
+      "redesignHeading": "Redesign Channel Website Landing Page"
+    }
+  ]

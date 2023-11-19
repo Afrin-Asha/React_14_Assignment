@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "imagePath": "images/employ-1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Senior Marketing Manager"
+    },
+
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "imagePath": "images/employ-5.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Lead Developer"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "imagePath": "images/employ-6.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Human Resources Director"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "imagePath": "images/employ-4.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Creative Director"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "imagePath": "images/employ-2.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Senior Data Scientist"
+    },
+    {
+      "id": 6,
+      "name": "Eva Davis",
+      "imagePath": "images/employ-3.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor soluta facere praesentium nobis! Soluta iste deserunt, exercitationem cumque accusamus maiores blanditiis ullam ex tempore, inventore enim! Ullam a repellat suscipit!",
+      "position": "Support Team Lead"
+    }
+  ]
+  

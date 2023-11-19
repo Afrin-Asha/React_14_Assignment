@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p1.png"
+    },
+    {
+      "id": 2,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p2.png"
+    },
+    {
+      "id": 3,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p3.png"
+    },
+    {
+      "id": 4,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p4.png"
+    },
+    {
+      "id": 5,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p5.png"
+    },
+    {
+      "id": 6,
+      "name": "lorem ipsum dolor sit amet",
+      "imagePath": "images/p6.png"
+    }
+  ]

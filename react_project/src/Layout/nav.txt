@@ -1,0 +1,72 @@
+<ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                     <li><NavLink to={"/"}>হোম</NavLink></li> 
+//nav from builder.import
+
+import React from 'react';
+
+const Navigation = () => {
+   
+      return (
+        <div className="justify-between fixed-top bg-green-100 p-2  items-center flex gap-5 max-md:flex-wrap">
+          
+          
+          <div className="text-orange-600 text-xl font-bold leading-8 my-auto">
+            <span className="text-black">Design</span>
+            <span className="text-orange-600">AGENCY</span>
+          </div>
+
+
+          <div className="justify-between items-start self-stretch flex gap-5 px-5 max-md:max-w-full max-md:flex-wrap max-md:justify-center">
+            <div className="text-black text-base font-medium leading-6 self-center my-auto">
+              Home
+            </div>
+            <div className="text-black text-base font-medium leading-6 self-center my-auto">
+              Team
+            </div>
+            <div className="text-black text-base font-medium leading-6 self-center my-auto">
+              Service
+            </div>
+            <div className="text-black text-base font-medium leading-6 self-center my-auto">
+              Projects
+            </div>
+            <div className="text-black text-base font-medium leading-6 my-auto">
+              Testimonials
+            </div>
+
+
+
+            <div className="text-black text-base font-medium leading-6 whitespace-nowrap justify-center items-center border self-stretch grow px-5 py-2.5 rounded-xl border-solid border-green-500">
+              Login
+            </div>
+            <div className="text-white text-base font-medium leading-6 whitespace-nowrap justify-center items-stretch bg-green-500 self-stretch grow px-5 py-2.5 rounded-xl max-md:pr-0">
+              Register
+            </div>
+
+
+          </div>
+        </div>
+      );
+    
+    
+
+
+};
+
+export default Navigation;
+
+
+///this is from previous Projects
+
+        <div className="navbar flex flex-row justify-evenly bg-slate-50 fixed top-0  z-50 ">
+            <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"} to="/">Home</NavLink></li>
+                <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"} to="/about">About</NavLink></li>
+                <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"} to="/blog">Blog</NavLink></li>
+                <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"} to="/contact">Contact</NavLink></li>
+                <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"}  to="/project">Project</NavLink></li>
+                <li><NavLink className={({isActive})=>isActive?"active-item":"pending-item"} to="/service">Service</NavLink></li>
+           
+                <div className="navbar-end">
+                    <button className="btn btn-outline btn-success mx-3">Login</button>
+                    <button className="btn btn-success mx-2">Register</button>
+                </div>
+            </div>
